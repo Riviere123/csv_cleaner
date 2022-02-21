@@ -1,7 +1,5 @@
 import csv
 import argparse
-from distutils.file_util import write_file
-
 
 class Cleaner:
     def __init__(self, file, columns, rows, strip) -> None:
