@@ -85,6 +85,10 @@ args = parser.parse_args()
 if __name__ == "__main__":
     cleaner = Cleaner(args.file, args.columns, args.rows, args.strip)
 
+<<<<<<< HEAD
 
 
 #this is also a test
+=======
+#this is a test
+>>>>>>> main
